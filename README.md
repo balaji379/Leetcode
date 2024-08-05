@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
+| [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0575-distribute-candies](https://github.com/balaji379/Leetcode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/balaji379/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/balaji379/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
