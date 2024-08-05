@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
 | [0575-distribute-candies](https://github.com/balaji379/Leetcode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/balaji379/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/balaji379/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
