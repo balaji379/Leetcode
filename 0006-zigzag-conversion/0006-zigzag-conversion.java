@@ -9,7 +9,7 @@ class Solution {
     }
     public  String convert(String str, int row) {
         int j = 0;
-        char[][] mat = new char[row][2000];
+        char[][] mat = new char[row][str.length()*4];
         int[] arrinfo = new int[] { 0, 0 };
         for (int i = 0; i < str.length(); i++) {
             Solution.row(mat, str, j, arrinfo);
