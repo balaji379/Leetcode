@@ -15,9 +15,10 @@
  */
 class BSTIterator {
       public  TreeNode root;
-      TreeSet<Integer> nodes = new TreeSet<>();
+      LinkedList<Integer> nodes ;
     public BSTIterator(TreeNode root) {
         this.root = root;
+        nodes = new LinkedList<Integer>();
         postorder(root);
         System.out.println(nodes);
     }
@@ -26,12 +27,12 @@ class BSTIterator {
          if(node==null) 
           return ;
          postorder(node.left);
-         postorder(node.right);
          nodes.add(node.val);
+         postorder(node.right);
      }
 
     public int next() {
-         return nodes.pollFirst();
+         return nodes.poll();
     }
     
     public boolean hasNext() {
