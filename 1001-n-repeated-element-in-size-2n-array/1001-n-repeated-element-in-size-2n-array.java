@@ -14,7 +14,6 @@ class Solution {
                             max = box.getValue();
                         }
            }
-           System.out.println("the map value is :"+map);
            return output;
     }
 }
