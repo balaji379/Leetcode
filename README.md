@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/balaji379/Leetcode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/balaji379/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/balaji379/Leetcode/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/balaji379/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/balaji379/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/balaji379/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/balaji379/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/balaji379/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/balaji379/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
