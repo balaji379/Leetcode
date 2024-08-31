@@ -12,7 +12,6 @@ class Solution {
                 while (!stack.isEmpty() && k >= 1 && stack.peek() > no) {
                     stack.pop();
                     k -= 1;
-                    System.out.println("the k value is :" + k);
                 }
                 stack.push(no);
             }
@@ -24,7 +23,6 @@ class Solution {
                 k -= 1;
             }
         }
-        System.out.println("the stack output value is :" + stack);
         while (!stack.isEmpty())
             output = stack.pop()+output;
           String answer = output.replaceFirst("^0+", "");
