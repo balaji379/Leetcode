@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/balaji379/Leetcode/tree/master/0057-insert-interval) |
 | [0198-house-robber](https://github.com/balaji379/Leetcode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
 | [0575-distribute-candies](https://github.com/balaji379/Leetcode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/balaji379/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0824-number-of-lines-to-write-string](https://github.com/balaji379/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/balaji379/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/balaji379/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/balaji379/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sorting
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/balaji379/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
