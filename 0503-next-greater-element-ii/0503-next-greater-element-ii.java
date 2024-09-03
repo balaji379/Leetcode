@@ -35,14 +35,6 @@ class Solution {
                 }
             }
         }
-        // System.out.println("the max element is :" + max);
-        // System.out.println("the nums :");
-        // Arrays.stream(nums).forEach(e -> System.out.print(e + " "));
-        // System.out.println();
-        // System.out.println("the maxElement element is :");
-        // System.out.println();
-        // Arrays.stream(maxElemnt).forEach(e -> System.out.print(e + " "));
-        // System.out.println("the index  is :" + index);
         while (!max.isEmpty() && !element.isEmpty()) {
             if (max.peek() > element.peek()) {
                 element.pop();
@@ -51,8 +43,6 @@ class Solution {
             } else if (max.peek() <= element.peek())
                 max.poll();
         }
-        // System.out.println("the maxElement element is :");
-        Arrays.stream(maxElemnt).forEach(e -> System.out.print(e + " "));
         return maxElemnt;   
     }
 }
