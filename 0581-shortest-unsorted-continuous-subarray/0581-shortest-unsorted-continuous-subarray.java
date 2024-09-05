@@ -45,7 +45,6 @@ class Solution {
                 }
             }
         }
-        System.out.println("the  min value is :" + minstart + " " + "the max value is :" + maxend);
         return (maxend - minstart) + 1;
     }
 }
