@@ -12,7 +12,6 @@ class Solution {
     public int[][] spiralMatrix(int m, int n, ListNode head) {
         int count = 0;
         int[][] mat = new int[m][n];
-
         int i = 0, j = 0, inc = m - 1, idec = 1, jinc = n - 1, jdec = 0;
         boolean incflag = false, idecflag = false, jdecflag = false, jincflag = true;
         while (count < m * n) {
