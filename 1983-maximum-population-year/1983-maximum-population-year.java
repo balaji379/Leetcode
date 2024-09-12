@@ -9,9 +9,6 @@ class Solution {
                 return Integer.compare(a[0], b[0]);
             }
         });
-        for (int[] log : logs) {
-            System.out.println(Arrays.toString(log));
-        }
         for (int[] data : logs) {
             if (deadYears.isEmpty()) {
                 deadYears.add(data[1]);
@@ -40,9 +37,6 @@ class Solution {
                 year = logs[i][0];
             }
         }
-        System.out.println("the dead years is :" + deadYears);
-        System.out.println("the answer is :" + Arrays.toString(population));
-        System.err.println("the maximim population is :" + year);
         return year;
     }
 }
