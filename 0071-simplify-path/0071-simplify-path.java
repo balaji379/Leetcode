@@ -1,12 +1,10 @@
 class Solution {
     public String simplifyPath(String path) {
-          path = path.replaceAll("/+", "/");
-          path = path.replaceFirst("/","");
           String[] directories = path.split("/");
           StringBuffer op =new StringBuffer();
           Stack<String> stack = new Stack<>();
           for(String p : directories){
-            if(p.equals(".")){}
+            if(p.equals(".") || p.isEmpty()){continue;}
             else if(p.equals("..")){
                 if(!stack.isEmpty())
                    stack.pop();
