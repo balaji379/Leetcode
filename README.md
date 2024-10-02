@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/balaji379/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/balaji379/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1256-rank-transform-of-an-array](https://github.com/balaji379/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/balaji379/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/balaji379/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1983-maximum-population-year](https://github.com/balaji379/Leetcode/tree/master/1983-maximum-population-year) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/balaji379/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/balaji379/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/balaji379/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1256-rank-transform-of-an-array](https://github.com/balaji379/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/balaji379/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/balaji379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1256-rank-transform-of-an-array](https://github.com/balaji379/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
