@@ -34,7 +34,6 @@ class Solution {
            ArrayList<TreeNode> tree = new ArrayList<>();
            tree.add( root );
            preorder( root.left , tree , last );
-           System.out.println("the array list is :" + tree.get(0).val);
            preorder( right , tree , last );
            root.left = null;
 
