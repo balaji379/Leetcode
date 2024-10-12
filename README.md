@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/balaji379/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/balaji379/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
+| [0932-monotonic-array](https://github.com/balaji379/Leetcode/tree/master/0932-monotonic-array) |
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/balaji379/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/balaji379/Leetcode/tree/master/1256-rank-transform-of-an-array) |
