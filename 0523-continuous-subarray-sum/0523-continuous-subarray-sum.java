@@ -10,13 +10,10 @@ class Solution {
             presum[i] %= k;
             if (!map.containsKey(presum[i]))
                map.put(presum[i] , i);
-
-         }
-         for (int i = 0; i < presum.length; i++){
-             if (map.containsKey(presum[i])){
-                if( Math.abs(map.get(presum[i]) - i) >= 2) 
+            else{
+                 if( Math.abs(map.get(presum[i]) - i) >= 2) 
                   return true;
-             }
+            }
          }
          return false;
     }
