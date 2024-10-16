@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/balaji379/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/balaji379/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/balaji379/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/balaji379/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
