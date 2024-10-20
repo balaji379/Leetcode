@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/balaji379/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/balaji379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/balaji379/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/balaji379/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/balaji379/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/balaji379/Leetcode/tree/master/0670-maximum-swap) |
+| [1031-add-to-array-form-of-integer](https://github.com/balaji379/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 ## Enumeration
 |  |
 | ------- |
