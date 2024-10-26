@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/balaji379/Leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/balaji379/Leetcode/tree/master/1044-find-common-characters) |
+| [1260-day-of-the-year](https://github.com/balaji379/Leetcode/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/balaji379/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/balaji379/Leetcode/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/balaji379/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1260-day-of-the-year](https://github.com/balaji379/Leetcode/tree/master/1260-day-of-the-year) |
 ## Enumeration
 |  |
 | ------- |
