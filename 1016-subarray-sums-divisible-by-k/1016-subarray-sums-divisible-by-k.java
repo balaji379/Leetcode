@@ -14,8 +14,7 @@ class Solution {
             }
             map.put(remainder,map.getOrDefault(remainder,0) + 1);
         }
-        System.out.println("this array values :" + prefixsum);
-        System.out.println("this hashmap values :" + map);
+    
         return totalcount;
     }
 }
