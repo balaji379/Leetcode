@@ -14,7 +14,6 @@ class Solution {
             }
             map.put(remainder,map.getOrDefault(remainder,0) + 1);
         }
-    
         return totalcount;
     }
 }
