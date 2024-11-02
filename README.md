@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/balaji379/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/balaji379/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/balaji379/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/balaji379/Leetcode/tree/master/0057-insert-interval) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/balaji379/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/balaji379/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/balaji379/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/balaji379/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/balaji379/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/balaji379/Leetcode/tree/master/0071-simplify-path) |
 | [0402-remove-k-digits](https://github.com/balaji379/Leetcode/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/balaji379/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/balaji379/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/balaji379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
