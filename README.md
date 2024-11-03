@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/balaji379/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/balaji379/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/balaji379/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/balaji379/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/balaji379/Leetcode/tree/master/0071-simplify-path) |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/balaji379/Leetcode/tree/master/1137-height-checker) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/balaji379/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
