@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/balaji379/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/balaji379/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/balaji379/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/balaji379/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/balaji379/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/balaji379/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/balaji379/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/balaji379/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/balaji379/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/balaji379/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/balaji379/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/balaji379/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
