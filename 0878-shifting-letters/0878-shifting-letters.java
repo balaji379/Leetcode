@@ -10,7 +10,6 @@ class Solution {
         char[] letters = s.toCharArray();
         int index = 0;
         for (char letter : letters) {
-            // System.out.println((int) 'z');
             int rotation = letter + shifts[index++];
 
             char l = 'a';
@@ -21,7 +20,6 @@ class Solution {
             }
             sb.append(l);
         }
-        System.out.println("the rotation steps are :" + Arrays.toString(shifts));
         return sb.toString();
    
     }
