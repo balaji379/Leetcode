@@ -18,7 +18,6 @@ class Solution {
             }
             j += 1;
         }
-        System.out.println("the j value is :" + j);
         // max = Math.max(max, (j) - i);
         return max + 1;
     }
