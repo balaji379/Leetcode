@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/balaji379/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/balaji379/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/balaji379/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/balaji379/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/balaji379/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/balaji379/Leetcode/tree/master/0071-simplify-path) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/balaji379/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/balaji379/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/balaji379/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/balaji379/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/balaji379/Leetcode/tree/master/0198-house-robber) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/balaji379/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/balaji379/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/balaji379/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
