@@ -1,7 +1,7 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
-        List<List<Integer>> answer = new ArrayList<>();
-        List<Integer> list = new ArrayList<>();
+        List<List<Integer>> answer = new LinkedList<>();
+        List<Integer> list = new LinkedList<>();
         Set<String> set = new HashSet<>();
         combination(answer, list, n, k, 0, set);
         return answer;
@@ -9,7 +9,7 @@ class Solution {
     public static void combination(List<List<Integer>> answer, List<Integer> list, int n, int k, int index,
             Set<String> set) {
         if (list.size() == k) {
-            List<Integer> temp = new ArrayList<>();
+            List<Integer> temp = new LinkedList<>();
             temp.addAll(list);
             String str = temp.toString();
             if (!set.contains(str)) {
@@ -21,7 +21,7 @@ class Solution {
         if (index > n)
             return;
 
-        List<Integer> combination = new ArrayList<>();
+        List<Integer> combination = new LinkedList<>();
 
         for (int i = index + 1; i <= n; i++) {
             combination.add(i);
