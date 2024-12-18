@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/balaji379/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/balaji379/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/balaji379/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/balaji379/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/balaji379/Leetcode/tree/master/0039-combination-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/balaji379/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/balaji379/Leetcode/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/balaji379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0841-shortest-distance-to-a-character](https://github.com/balaji379/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/balaji379/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/balaji379/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/balaji379/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/balaji379/Leetcode/tree/master/0402-remove-k-digits) |
