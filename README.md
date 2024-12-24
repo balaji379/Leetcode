@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/balaji379/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/balaji379/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/balaji379/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/balaji379/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/balaji379/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
@@ -397,5 +398,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/balaji379/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/balaji379/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/balaji379/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/balaji379/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/balaji379/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
