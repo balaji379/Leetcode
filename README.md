@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/balaji379/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/balaji379/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/balaji379/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/balaji379/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/balaji379/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/balaji379/Leetcode/tree/master/0137-single-number-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/balaji379/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/balaji379/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/balaji379/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/balaji379/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -400,4 +402,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/balaji379/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/balaji379/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/balaji379/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/balaji379/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
