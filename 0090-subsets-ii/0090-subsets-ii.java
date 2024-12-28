@@ -13,9 +13,7 @@ class Solution {
         if (visited.contains(str))
             return ;
         else {
-            List<Integer> temp = new ArrayList<>();
-            temp.addAll(list);
-            answer.add(temp);
+            answer.add(new ArrayList<Integer>(list));
             visited.add(str);
             while (index < nums.length) {
                 list.add(nums[index]);
