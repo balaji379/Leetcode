@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/balaji379/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/balaji379/Leetcode/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/balaji379/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/balaji379/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/balaji379/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/balaji379/Leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/balaji379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/balaji379/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3195-separate-black-and-white-balls](https://github.com/balaji379/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
