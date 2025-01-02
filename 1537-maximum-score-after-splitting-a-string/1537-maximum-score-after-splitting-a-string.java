@@ -16,29 +16,22 @@ class Solution {
             }
         }
          int max = -1;
-         if (zero == 0){
-            if (s.length() == 2)
-                return 1;
-            int sum = s.length() / 2;
-            if ((s.length() - sum) - sum == 0) {
-                return sum + 1;
-            }
-            else return sum + 2;
-        }
-         if (one == 0){
-             if (s.length() == 2)
-                return 1;
-             int sum = s.length() / 2;
-             if ((s.length() - sum) - sum == 0) {
-                return sum + 1;
-            }
-           else return sum + 2;
-        }
+        if (one == 0 || zero == 0 )
+            getAnswer(s);
         for (int i = 0; i < s.length() - 1; i++){
             int sum = zeroPrefix[i] + (one - onePrefix[i]);
             max = Math.max(sum,max);
         }
     
         return max;
+    }
+    public static int getAnswer(String s){
+      if (s.length() == 2)
+                return 1;
+             int sum = s.length() / 2;
+             if ((s.length() - sum) - sum == 0) {
+                return sum + 1;
+            }
+           else return sum + 2;   
     }
 }
