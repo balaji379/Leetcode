@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/balaji379/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1983-maximum-population-year](https://github.com/balaji379/Leetcode/tree/master/1983-maximum-population-year) |
 | [2411-spiral-matrix-iv](https://github.com/balaji379/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/balaji379/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/balaji379/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/balaji379/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/balaji379/Leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/balaji379/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3195-separate-black-and-white-balls](https://github.com/balaji379/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/balaji379/Leetcode/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/balaji379/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1260-day-of-the-year](https://github.com/balaji379/Leetcode/tree/master/1260-day-of-the-year) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 ## Enumeration
 |  |
 | ------- |
