@@ -1,6 +1,6 @@
 class Solution {
     public int maximumGroups(int[] grades) {
-          Arrays.sort(grades);
+        //   Arrays.sort(grades);
           int count = 0;
           int len = grades.length;
           for (int i = 1; true; i++){
