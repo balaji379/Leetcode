@@ -11,7 +11,7 @@ class Solution {
     }
 
     public static boolean isPrefixAndSuffix (String a , String b){
-        if (b.startsWith(a) && a.length() < b.length()){
+        if (b.startsWith(a)){
             int start = b.length() - a.length();
             String temp = b.substring(start);
             return temp.equals(a);
