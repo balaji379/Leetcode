@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/balaji379/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/balaji379/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
+| [0491-non-decreasing-subsequences](https://github.com/balaji379/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/balaji379/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/balaji379/Leetcode/tree/master/0525-contiguous-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/balaji379/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/balaji379/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/balaji379/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/balaji379/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/balaji379/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/balaji379/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0491-non-decreasing-subsequences](https://github.com/balaji379/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/balaji379/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String Matching
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/balaji379/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/balaji379/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/balaji379/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0491-non-decreasing-subsequences](https://github.com/balaji379/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Rolling Hash
 |  |
 | ------- |
