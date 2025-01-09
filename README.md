@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/balaji379/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/balaji379/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/balaji379/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/balaji379/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/balaji379/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/balaji379/Leetcode/tree/master/0093-restore-ip-addresses) |
