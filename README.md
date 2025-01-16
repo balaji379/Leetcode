@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/balaji379/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/balaji379/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/balaji379/Leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/balaji379/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/balaji379/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/balaji379/Leetcode/tree/master/0137-single-number-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/balaji379/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/balaji379/Leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/balaji379/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0120-triangle](https://github.com/balaji379/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/balaji379/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/balaji379/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/balaji379/Leetcode/tree/master/0198-house-robber) |
