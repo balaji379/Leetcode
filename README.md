@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/balaji379/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/balaji379/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/balaji379/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/balaji379/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/balaji379/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/balaji379/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/balaji379/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/balaji379/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/balaji379/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/balaji379/Leetcode/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/balaji379/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/balaji379/Leetcode/tree/master/0670-maximum-swap) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/balaji379/Leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/balaji379/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/balaji379/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Sliding Window
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/balaji379/Leetcode/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/balaji379/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
