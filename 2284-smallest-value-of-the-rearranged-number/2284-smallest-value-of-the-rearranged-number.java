@@ -14,20 +14,13 @@ class Solution {
         else
             Collections.sort(list);
         if (list.get(0) == 0) {
-            boolean flag = true;
-            for (int i = 1; i < list.size() - 1; i++) {
+            for (int i = 1; i < list.size(); i++) {
                  if (list.get(i) != 0){
                      int f = list.getFirst();
                      list.set(0,list.get(i));
                      list.set(i,f);
-                     flag = false;
                      break;
                  }
-            }
-            if (flag) {
-                int f =  list.getFirst();
-                list.set(0,list.getLast());
-                list.set(list.size() - 1,f);
             }
         }
         long newnum = 0;
