@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3195-separate-black-and-white-balls](https://github.com/balaji379/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3379-score-of-a-string](https://github.com/balaji379/Leetcode/tree/master/3379-score-of-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/balaji379/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
