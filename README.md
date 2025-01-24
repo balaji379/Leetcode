@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/balaji379/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/balaji379/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/balaji379/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0820-find-eventual-safe-states](https://github.com/balaji379/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/balaji379/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/balaji379/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/balaji379/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0820-find-eventual-safe-states](https://github.com/balaji379/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -539,4 +541,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/balaji379/Leetcode/tree/master/0204-count-primes) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/balaji379/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/balaji379/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
