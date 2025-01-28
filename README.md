@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/balaji379/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/balaji379/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/balaji379/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/balaji379/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/balaji379/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/balaji379/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/balaji379/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0820-find-eventual-safe-states](https://github.com/balaji379/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/balaji379/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/balaji379/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/balaji379/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0820-find-eventual-safe-states](https://github.com/balaji379/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/balaji379/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/balaji379/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2411-spiral-matrix-iv](https://github.com/balaji379/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/balaji379/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/balaji379/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/balaji379/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
