@@ -11,6 +11,7 @@ class Solution {
                 if(count > 2){
                     int start = i + 2;
                     int end = j;
+                    // remove the element from the array so that reduce the size of the array
                     len -= (end - start);
                     while (end < nums.length){
                      nums[start++] = nums[end++];
