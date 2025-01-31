@@ -8,7 +8,6 @@ class Solution {
             words[i++] = words[j];
             words[j--] = temp;
         }
-        System.out.print(Arrays.toString(words));
         s ="";
         for (String val : words){
             if(!val.replace(" ","").equals(""))
