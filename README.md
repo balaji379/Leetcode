@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/balaji379/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/balaji379/Leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/balaji379/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/balaji379/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/balaji379/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/balaji379/Leetcode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/balaji379/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/balaji379/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/balaji379/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/balaji379/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/balaji379/Leetcode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/balaji379/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/balaji379/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/balaji379/Leetcode/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/balaji379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
