@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/balaji379/Leetcode/tree/master/0217-contains-duplicate) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/balaji379/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/balaji379/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/balaji379/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/balaji379/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/balaji379/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/balaji379/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/balaji379/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/balaji379/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/balaji379/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/balaji379/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/balaji379/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/balaji379/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0948-sort-an-array](https://github.com/balaji379/Leetcode/tree/master/0948-sort-an-array) |
 ## Design
 |  |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/balaji379/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/balaji379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
