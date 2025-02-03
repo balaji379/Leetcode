@@ -1,7 +1,7 @@
 class Solution {
     public int longestMonotonicSubarray(int[] nums) {
          int max = Math.max(findMaxSub(true,nums),findMaxSub(false,nums));
-         System.out.print(max);
+        //  System.out.print(max);
          return max;
     }
     public int findMaxSub(boolean flag,int...nums){
