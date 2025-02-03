@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/balaji379/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/balaji379/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/balaji379/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/balaji379/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
