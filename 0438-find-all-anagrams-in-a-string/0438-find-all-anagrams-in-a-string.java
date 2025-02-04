@@ -15,10 +15,8 @@ class Solution {
         int len = s.length();
         for (int i = start, index = 0; i <= len; i++, index++) {
             int[] count = new int[26];
-            int l = sb.length();
-             for (int j = 0; j < l; j++ ){
-                count[sb.charAt(j) - 'a'] += 1;
-             }
+            for (char c : sb.toString().toCharArray())
+                count[c - 'a'] += 1;
             boolean flag = true;
             for (char c : letter) {
                 if (count[c - 'a'] != checkercount[c - 'a']) {
