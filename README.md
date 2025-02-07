@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/balaji379/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/balaji379/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/balaji379/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/balaji379/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/balaji379/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/balaji379/Leetcode/tree/master/0179-largest-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/balaji379/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/balaji379/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/balaji379/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/balaji379/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/balaji379/Leetcode/tree/master/0217-contains-duplicate) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/balaji379/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/balaji379/Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/balaji379/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/balaji379/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/balaji379/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/balaji379/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/balaji379/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/balaji379/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/balaji379/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/balaji379/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/balaji379/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/balaji379/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/balaji379/Leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/balaji379/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/balaji379/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/balaji379/Leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/balaji379/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
@@ -626,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/balaji379/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/balaji379/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/balaji379/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Combinatorics
 |  |
