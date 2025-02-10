@@ -19,8 +19,9 @@ class Solution {
             i = start - 1;
         }
         len = sb.length();
+        String s = sb.toString();
         for (int i = 0; i < len; i++){
-            chars[i] = sb.charAt(i);
+            chars[i] = s.charAt(i);
         }
         return sb.length();
     }
