@@ -28,7 +28,7 @@ class Solution {
                 r += 1;
             }
         }
-        System.out.println("the longest substring is : " + start + " " + (max + start));
+        // System.out.println("the longest substring is : " + start + " " + (max + start));
         if (start == 0 && max == 0)
              return String.valueOf(s.charAt(0));
         return s.substring(start,max + start);
