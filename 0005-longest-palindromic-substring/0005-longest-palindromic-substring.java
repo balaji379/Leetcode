@@ -1,25 +1,36 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-        int start = 0, end = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int len1 = expandAroundCenter(s, i, i);
-            int len2 = expandAroundCenter(s, i, i + 1);
-            int len = Math.max(len1, len2);
-            if (len > end - start) {
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
+        int len = s.length();
+        int end = 0,start = 0,max = 0;
+        for (int i = 1; i < len; i++) {
+            int l = i-1;
+            int r = i;
+            while(l >= 0 && r < len &&  s.charAt(l) == s.charAt(r)){
+                int m =  r - l + 1;
+                if (max <= m){
+                    start = l;
+                    max = m;
+                    end = r - l + 1;
+                }
+                l -= 1;
+                r += 1;
+            }
+            l = i - 1;
+            r = i + 1;
+            while(l >= 0 && r < len && s.charAt(l) == s.charAt(r)){
+                int m = r - l +1;
+                if (m >= max){
+                    start = l;
+                    end = r - l + 1 ;
+                    max = m;
+                }
+                l -= 1;
+                r += 1;
             }
         }
-        return s.substring(start, end + 1);
-    }
-
-    private int expandAroundCenter(String s, int left, int right) {
-        int L = left, R = right;
-        while (L >= 0 && R < s.length() && s.charAt(L) == s.charAt(R)) {
-            L--;
-            R++;
-        }
-        return R - L - 1;
+        System.out.println("the longest substring is : " + start + " " + (max + start));
+        if (start == 0 && max == 0)
+             return String.valueOf(s.charAt(0));
+        return s.substring(start,max + start);
     }
 }
