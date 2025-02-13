@@ -24,7 +24,7 @@ class Solution {
              }
              end += 1;
         }
-        System.out.println(maxLength +" start " + start + "end " + end) ;
+        // System.out.println(maxLength +" start " + start + "end " + end) ;
         if(cost <= maxCost){
             System.out.println(cost);
             maxLength = Math.max(end - start,maxLength);
