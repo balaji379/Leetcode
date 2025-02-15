@@ -9,25 +9,25 @@ class Solution {
                 digits.add(0, temp % 10);
                 temp /= 10;
             }
-            if (canPartition(i, digits, 0, 0)) {
+            if (findPunishmentNum(i, digits, 0, 0)) {
                 sum += sq;
             }
         }
         return sum;
     }
 
-    public  boolean canPartition(int target, List<Integer> digits, int index, int currentSum) {
-        if (currentSum > target) {
+    public  boolean findPunishmentNum(int target, List<Integer> digits, int index, int sum) {
+        if (sum > target) {
             return false;
         }
         if (index == digits.size()) {
-            return currentSum == target;
+            return sum == target;
         }
 
         int num = 0;
         for (int i = index; i < digits.size(); i++) {
             num = num * 10 + digits.get(i);
-            if (canPartition(target, digits, i + 1, currentSum + num)) {
+            if (findPunishmentNum(target, digits, i + 1, sum + num)) {
                 return true;
             }
         }
