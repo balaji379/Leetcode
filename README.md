@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/balaji379/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/balaji379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/balaji379/Leetcode/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/balaji379/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/balaji379/Leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/balaji379/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/balaji379/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/balaji379/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/balaji379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0731-my-calendar-ii](https://github.com/balaji379/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/balaji379/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/balaji379/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/balaji379/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/balaji379/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/balaji379/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0731-my-calendar-ii](https://github.com/balaji379/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/balaji379/Leetcode/tree/master/0816-design-hashset) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/balaji379/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/balaji379/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
+| [0731-my-calendar-ii](https://github.com/balaji379/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/balaji379/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Linked List
 |  |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/balaji379/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/balaji379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/balaji379/Leetcode/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/balaji379/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/balaji379/Leetcode/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/balaji379/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -714,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/balaji379/Leetcode/tree/master/0948-sort-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/balaji379/Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
