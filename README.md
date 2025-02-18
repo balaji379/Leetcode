@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/balaji379/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/balaji379/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/balaji379/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/balaji379/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/balaji379/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/balaji379/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/balaji379/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/balaji379/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/balaji379/Leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/balaji379/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/balaji379/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/balaji379/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3195-separate-black-and-white-balls](https://github.com/balaji379/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/balaji379/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/balaji379/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1160-letter-tile-possibilities](https://github.com/balaji379/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/balaji379/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/balaji379/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Rolling Hash
 |  |
