@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/balaji379/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/balaji379/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/balaji379/Leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/balaji379/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/balaji379/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/balaji379/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/balaji379/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/balaji379/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/balaji379/Leetcode/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/balaji379/Leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/balaji379/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/balaji379/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/balaji379/Leetcode/tree/master/0289-game-of-life) |
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/balaji379/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
