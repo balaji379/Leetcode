@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/balaji379/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/balaji379/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/balaji379/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/balaji379/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/balaji379/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/balaji379/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/balaji379/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/balaji379/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/balaji379/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/balaji379/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/balaji379/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/balaji379/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/balaji379/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/balaji379/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/balaji379/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1983-maximum-population-year](https://github.com/balaji379/Leetcode/tree/master/1983-maximum-population-year) |
 ## Hash Function
 |  |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/balaji379/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1260-day-of-the-year](https://github.com/balaji379/Leetcode/tree/master/1260-day-of-the-year) |
 | [1448-maximum-69-number](https://github.com/balaji379/Leetcode/tree/master/1448-maximum-69-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/balaji379/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/balaji379/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/balaji379/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
