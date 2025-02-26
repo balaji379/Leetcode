@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/balaji379/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/balaji379/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1839-decode-xored-array](https://github.com/balaji379/Leetcode/tree/master/1839-decode-xored-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/balaji379/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1983-maximum-population-year](https://github.com/balaji379/Leetcode/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/balaji379/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/balaji379/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/balaji379/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/balaji379/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
