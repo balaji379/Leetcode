@@ -17,8 +17,15 @@ class Solution {
                  min[i] = nums[i];
         
     }
-       int high = Math.abs(Arrays.stream(max).max().getAsInt());
-       int low = Math.abs(Arrays.stream(min).min().getAsInt());
-        return Math.max(high,low);
+    //    int high = Math.abs(Arrays.stream(max).max().getAsInt());
+    //    int low = Math.abs(Arrays.stream(min).min().getAsInt());
+    int h = -1 , l = Integer.MAX_VALUE;
+    for (int i = 0; i < max.length; i++){
+          if (h <= max[i])
+             h = max[i];
+          if (l >= min[i])
+             l = min[i];
+    }
+        return Math.max(Math.abs(h),Math.abs(l));
     }
 }
