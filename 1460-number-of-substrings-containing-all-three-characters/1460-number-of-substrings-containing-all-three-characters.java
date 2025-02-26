@@ -27,13 +27,13 @@ class Solution {
             }
             i += 1;
         }
-        while(letter >= 3){
-            sum += 1;
-            char c = sb.charAt(0);
-            letters[c-'a'] -= 1;
-            if (letters[c-'a'] == 0)
-                 letter -= 1;
-        }
+        // while(letter >= 3){
+        //     sum += 1;
+        //     char c = sb.charAt(0);
+        //     letters[c-'a'] -= 1;
+        //     if (letters[c-'a'] == 0)
+        //          letter -= 1;
+        // }
         return sum;
     }
 }
