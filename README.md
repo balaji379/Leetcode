@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/balaji379/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/balaji379/Leetcode/tree/master/3429-special-array-i) |
+| [3533-snake-in-matrix](https://github.com/balaji379/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3651-transformed-array](https://github.com/balaji379/Leetcode/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/balaji379/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/balaji379/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/balaji379/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3533-snake-in-matrix](https://github.com/balaji379/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/balaji379/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/balaji379/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/balaji379/Leetcode/tree/master/3447-clear-digits) |
+| [3533-snake-in-matrix](https://github.com/balaji379/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3651-transformed-array](https://github.com/balaji379/Leetcode/tree/master/3651-transformed-array) |
 ## Prefix Sum
 |  |
