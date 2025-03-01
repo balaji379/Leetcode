@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/balaji379/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/balaji379/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/balaji379/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/balaji379/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/balaji379/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/balaji379/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/balaji379/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2551-apply-operations-to-an-array](https://github.com/balaji379/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/balaji379/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/balaji379/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/balaji379/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2411-spiral-matrix-iv](https://github.com/balaji379/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/balaji379/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/balaji379/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/balaji379/Leetcode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/balaji379/Leetcode/tree/master/3533-snake-in-matrix) |
