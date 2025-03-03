@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/balaji379/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/balaji379/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/balaji379/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/balaji379/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/balaji379/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/balaji379/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/balaji379/Leetcode/tree/master/0048-rotate-image) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/balaji379/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/balaji379/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/balaji379/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/balaji379/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/balaji379/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/balaji379/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/balaji379/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/balaji379/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/balaji379/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/balaji379/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/balaji379/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/balaji379/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/balaji379/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/balaji379/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balaji379/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/balaji379/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/balaji379/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/balaji379/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/balaji379/Leetcode/tree/master/0503-next-greater-element-ii) |
