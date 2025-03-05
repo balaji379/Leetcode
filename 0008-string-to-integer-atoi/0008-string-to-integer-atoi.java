@@ -41,7 +41,7 @@ class Solution {
         return ans;
     }
 
-    private static long getnum(int start, String s,boolean flag) {
+    private  long getnum(int start, String s,boolean flag) {
         int temp = start,len = s.length();
         boolean z = false;
         int f = temp;
@@ -51,7 +51,6 @@ class Solution {
                else z = true;
                start += 1;
            }
-//           if ()
            String d = s.substring(f,start);
            if (d.length() > 10){
                if (flag)
