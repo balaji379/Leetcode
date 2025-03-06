@@ -1,7 +1,7 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         int[] count = new int[(grid.length * grid.length)+ 1];
-        int r = -1, m = -1;
+        int r = -1, m = -1,sum = 0;
         for(int[] val : grid){
                 for (int v : val)
                    count[v] += 1;
@@ -14,6 +14,9 @@ class Solution {
             if (m != -1 && r != -1)
                break;
         }
-        return new int[]{r,m};
+        int[] ans = new int[2];
+        ans[0] = r;
+        ans[1] = m;
+        return ans;
     }
 }
