@@ -34,7 +34,9 @@ class Solution {
         }
 
         if (ans[0] == -1 || ans[1] == -1){
-            ans[0] = -1; ans[1] = -1;
+                ans[0] = -1;
+                ans[1] = -1;
+                return ans;
         }
         return ans;
     }
