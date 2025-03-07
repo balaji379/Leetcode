@@ -19,10 +19,11 @@ class Solution {
         ans[0] = -1;
         ans[1] = -1;
         int pre = -1, min = Integer.MAX_VALUE;
-        for (int i =  start == 1 ? 2 : start; i <= end; i++) {
+        if (start == 1)
+           start = 2;
+        for (int i =  start; i <= end; i++) {
             if (!flag[i]) {
                 int d = i - pre;
-                // System.err.println(d + "  pre:" + pre + " i:" + i);
                 if (d < min) {
                     min = d;
                     ans[0] = pre;
