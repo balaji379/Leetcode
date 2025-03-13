@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/balaji379/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/balaji379/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3533-snake-in-matrix](https://github.com/balaji379/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3643-zero-array-transformation-ii](https://github.com/balaji379/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/balaji379/Leetcode/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/balaji379/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/balaji379/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/balaji379/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/balaji379/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1983-maximum-population-year](https://github.com/balaji379/Leetcode/tree/master/1983-maximum-population-year) |
+| [3643-zero-array-transformation-ii](https://github.com/balaji379/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Function
 |  |
 | ------- |
