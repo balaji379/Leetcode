@@ -1,14 +1,16 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-         Map<Integer,Integer> map = new HashMap<>();
+         int[] count = new int[501];
          for (int val : nums){
-            map.put(val,map.getOrDefault(val,0) + 1);
+            count[val] += 1;
          }
          int pairs = nums.length / 2;
          int sum_of_pairs = 0;
-         for (int val : map.values()){
-            if (val % 2 == 0)
-                sum_of_pairs += val / 2;
+         for (int val : nums){
+            if (count[val] % 2 == 0){
+                 sum_of_pairs += (count[val] / 2);
+                 count[val] = 0;
+            }
             else return false;
          }
          if (sum_of_pairs == pairs)
