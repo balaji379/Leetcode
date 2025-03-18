@@ -12,6 +12,6 @@ class Solution {
             }
             end += 1;
         }
-        return   Math.max(max, (end - start));
+        return  max;
     }
 }
