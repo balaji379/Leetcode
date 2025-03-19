@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/balaji379/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/balaji379/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/balaji379/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2639-separate-the-digits-in-an-array](https://github.com/balaji379/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/balaji379/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/balaji379/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/balaji379/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/balaji379/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/balaji379/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/balaji379/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/balaji379/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/balaji379/Leetcode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/balaji379/Leetcode/tree/master/3533-snake-in-matrix) |
