@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/balaji379/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/balaji379/Leetcode/tree/master/0670-maximum-swap) |
+| [0888-mirror-reflection](https://github.com/balaji379/Leetcode/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/balaji379/Leetcode/tree/master/0897-prime-palindrome) |
 | [1031-add-to-array-form-of-integer](https://github.com/balaji379/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1260-day-of-the-year](https://github.com/balaji379/Leetcode/tree/master/1260-day-of-the-year) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/balaji379/Leetcode/tree/master/0204-count-primes) |
+| [0888-mirror-reflection](https://github.com/balaji379/Leetcode/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/balaji379/Leetcode/tree/master/0897-prime-palindrome) |
 | [2610-closest-prime-numbers-in-range](https://github.com/balaji379/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Graph
@@ -912,4 +914,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1767-design-front-middle-back-queue](https://github.com/balaji379/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/balaji379/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Geometry
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/balaji379/Leetcode/tree/master/0888-mirror-reflection) |
 <!---LeetCode Topics End-->
