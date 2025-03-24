@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/balaji379/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/balaji379/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/balaji379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-longest-turbulent-subarray](https://github.com/balaji379/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/balaji379/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/balaji379/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/balaji379/Leetcode/tree/master/1044-find-common-characters) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/balaji379/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/balaji379/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/balaji379/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1020-longest-turbulent-subarray](https://github.com/balaji379/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/balaji379/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/balaji379/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/balaji379/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/balaji379/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/balaji379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1020-longest-turbulent-subarray](https://github.com/balaji379/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/balaji379/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/balaji379/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
