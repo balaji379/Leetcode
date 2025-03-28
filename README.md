@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/balaji379/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/balaji379/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/balaji379/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/balaji379/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/balaji379/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/balaji379/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0318-maximum-product-of-word-lengths](https://github.com/balaji379/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/balaji379/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/balaji379/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/balaji379/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/balaji379/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/balaji379/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/balaji379/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/balaji379/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/balaji379/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/balaji379/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/balaji379/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/balaji379/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0729-my-calendar-i](https://github.com/balaji379/Leetcode/tree/master/0729-my-calendar-i) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/balaji379/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/balaji379/Leetcode/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/balaji379/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/balaji379/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/balaji379/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
