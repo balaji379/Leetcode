@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/balaji379/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/balaji379/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/balaji379/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/balaji379/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/balaji379/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/balaji379/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/balaji379/Leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/balaji379/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/balaji379/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2998-count-symmetric-integers](https://github.com/balaji379/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Sliding Window
 |  |
 | ------- |
