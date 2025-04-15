@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/balaji379/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/balaji379/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/balaji379/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/balaji379/Leetcode/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/balaji379/Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/balaji379/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/balaji379/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0357-count-numbers-with-unique-digits](https://github.com/balaji379/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/balaji379/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0400-nth-digit](https://github.com/balaji379/Leetcode/tree/master/0400-nth-digit) |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/balaji379/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/balaji379/Leetcode/tree/master/0633-sum-of-square-numbers) |
