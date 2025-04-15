@@ -2,7 +2,7 @@ class CombinationIterator {
     List<String> list = new ArrayList<>();
     public CombinationIterator(String characters, int combinationLength) {
          solve("",characters,combinationLength);
-         System.out.println(list);
+        //  System.out.println(list);
     }
     
     public String next() {
