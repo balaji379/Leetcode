@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/balaji379/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/balaji379/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/balaji379/Leetcode/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/balaji379/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/balaji379/Leetcode/tree/master/0816-design-hashset) |
 | [0824-number-of-lines-to-write-string](https://github.com/balaji379/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/balaji379/Leetcode/tree/master/0837-most-common-word) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/balaji379/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/balaji379/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/balaji379/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/balaji379/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0924-fair-candy-swap](https://github.com/balaji379/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/balaji379/Leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/balaji379/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/balaji379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/balaji379/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/balaji379/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/balaji379/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/balaji379/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/balaji379/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/balaji379/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/balaji379/Leetcode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/balaji379/Leetcode/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/balaji379/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/balaji379/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/balaji379/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -818,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/balaji379/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/balaji379/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/balaji379/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/balaji379/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/balaji379/Leetcode/tree/master/0948-sort-an-array) |
 | [2434-design-a-number-container-system](https://github.com/balaji379/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/balaji379/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
