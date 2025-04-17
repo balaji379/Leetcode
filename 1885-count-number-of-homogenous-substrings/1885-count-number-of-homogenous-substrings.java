@@ -13,7 +13,7 @@ class Solution {
             count += ((w * (w+1)) / 2);
          }
         if (count > Integer.MAX_VALUE){
-            return (int)(count % (int)(Math.pow(10,9) + 7));
+            return (int)(count % (Math.pow(10,9) + 7));
         }else return (int)count;
     }
 }
