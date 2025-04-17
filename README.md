@@ -865,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/balaji379/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/balaji379/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/balaji379/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2383-add-two-integers](https://github.com/balaji379/Leetcode/tree/master/2383-add-two-integers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2610-closest-prime-numbers-in-range](https://github.com/balaji379/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/balaji379/Leetcode/tree/master/2630-alternating-digit-sum) |
