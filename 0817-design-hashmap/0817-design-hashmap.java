@@ -2,8 +2,8 @@ class MyHashMap {
    List<Integer> key;
    List<Integer> value;
     public MyHashMap() {
-        key = new ArrayList<>();
-        value = new ArrayList<>();
+        key = new LinkedList<>();
+        value = new LinkedList<>();
     }
     
     public void put(int key, int value) {
