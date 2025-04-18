@@ -1,34 +1,20 @@
 class MyHashMap {
-   List<Integer> key;
-   List<Integer> value;
+   int[] map ;
     public MyHashMap() {
-        key = new LinkedList<>();
-        value = new LinkedList<>();
+         map = new int[10000000];
+         Arrays.fill(map,-1);
     }
     
     public void put(int key, int value) {
-       if (this.key.contains(key)){
-          int target = this.key.indexOf(key);
-          this.value.set(target,value);
-       }else{ 
-           this.key.add(key);
-           this.value.add(value);
-       }
+        map[key] = value;
     }
     
     public int get(int key) {
-        if (this.key.indexOf(key) > -1){
-            return value.get(this.key.indexOf(key));
-        }
-        return -1;
+        return map[key];
     }
     
     public void remove(int key) {
-        int target = this.key.indexOf(key);
-        if (target > -1){
-           this.key.remove(target);
-           value.remove(target);
-        }
+        map[key] = -1;
     }
 }
 
