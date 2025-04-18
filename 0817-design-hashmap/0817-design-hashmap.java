@@ -1,19 +1,24 @@
 class MyHashMap {
    int[] map ;
+   boolean[] flag;
     public MyHashMap() {
          map = new int[10000000];
-         Arrays.fill(map,-1);
+         flag = new boolean[10000000];
     }
     
     public void put(int key, int value) {
         map[key] = value;
+        flag[key] = true;
     }
     
     public int get(int key) {
-        return map[key];
+        if (flag[key]) 
+           return map[key];
+        else return -1;
     }
     
     public void remove(int key) {
+        flag[key] = false;
         map[key] = -1;
     }
 }
