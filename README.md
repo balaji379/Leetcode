@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/balaji379/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/balaji379/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/balaji379/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balaji379/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/balaji379/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/balaji379/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/balaji379/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/balaji379/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/balaji379/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/balaji379/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/balaji379/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/balaji379/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/balaji379/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/balaji379/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/balaji379/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balaji379/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/balaji379/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/balaji379/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
