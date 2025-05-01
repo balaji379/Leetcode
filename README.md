@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/balaji379/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/balaji379/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/balaji379/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/balaji379/Leetcode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/balaji379/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/balaji379/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/balaji379/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/balaji379/Leetcode/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/balaji379/Leetcode/tree/master/0937-online-stock-span) |
 | [1211-iterator-for-combination](https://github.com/balaji379/Leetcode/tree/master/1211-iterator-for-combination) |
 | [1294-range-frequency-queries](https://github.com/balaji379/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/balaji379/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/balaji379/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/balaji379/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/balaji379/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/balaji379/Leetcode/tree/master/0937-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/balaji379/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
@@ -1040,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/balaji379/Leetcode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/balaji379/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/balaji379/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 ## Queue
