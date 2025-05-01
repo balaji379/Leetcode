@@ -1,48 +1,40 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-       Stack<Integer> element = new Stack<>();
-        Queue<Integer> max = new LinkedList<>();
-        max.add(nums[0]);
-        Stack<Integer> index = new Stack<>();
-        // store max value from the given nums
-        for (int num : nums)
-            if (max.peek() < num)
-                max.add(num);
-        // answer array creation and store -1
-        int[] maxElemnt = new int[nums.length];
-        for (int i = 0; i < maxElemnt.length; i++)
-            maxElemnt[i] = -1;
-        // find next max value for each element present in nums
-        for (int i = 0; i < nums.length; i++) {
-            if (element.isEmpty()) {
-                element.push(nums[i]);
-                index.push(i);
-            } else {
-                if (element.peek() >= nums[i]) {
+         int[] ans = new int[nums.length];
+         solve(new Stack<>(),ans,nums);
+         return ans;
+    }
 
-                    element.push(nums[i]);
-                    index.push(i);
-                } else {
-                    while (!element.isEmpty() && element.peek() < nums[i]) {
-                        element.pop();
-                        int ind = index.pop();
-                        // System.out.println("the index to pop :" + ind);
-                        maxElemnt[ind] = nums[i];
-
-                    }
-                    element.push(nums[i]);
-                    index.push(i);
+    public void solve(Stack<Integer> stack, int[] ans,int[] nums) {
+        for (int i = nums.length * 2 - 1; i >= 0; --i)  {
+             int pos = i % nums.length;
+             if (i >= nums.length && stack.isEmpty()){
+                stack.push(nums[pos]);
+                // ans[i] = -1;
+             }else if (i < nums.length && stack.isEmpty()){
+                stack.push(nums[i]);
+                ans[i] = -1;
+             }
+             else if (nums[pos] >= stack.peek()){
+                     while (!stack.isEmpty() && nums[pos] >= stack.peek()){
+                        stack.pop();
+                     }
+                     if (stack.isEmpty()){
+                        if (i < nums.length)
+                            ans[i] = -1;
+                        stack.push(nums[pos]);
+                     }else{
+                        if (i < nums.length){
+                            ans[i] = stack.peek();
+                        }
+                        stack.push(nums[pos]);
+                     }
+             }else{
+                if (i < nums.length){
+                    ans[i] = stack.peek();
                 }
-            }
+                stack.push(nums[pos]);
+             }
         }
-        while (!max.isEmpty() && !element.isEmpty()) {
-            if (max.peek() > element.peek()) {
-                element.pop();
-                int ind = index.pop();
-                maxElemnt[ind] = max.peek();
-            } else if (max.peek() <= element.peek())
-                max.poll();
-        }
-        return maxElemnt;   
     }
 }
