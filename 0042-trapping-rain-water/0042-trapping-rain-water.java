@@ -1,23 +1,21 @@
 class Solution {
     public int trap(int[] height) {
-         int lhb = height[0] , rhb  = height[height.length - 1];
-         int l = 0 , r = height.length - 1,res = 0;
-         while (l <= r){
-            if (lhb <= rhb){
-               if (height[l] > lhb)
-                   lhb = height[l];
-               else
-                   res += (lhb - height[l]);
-               l += 1;
+         int ans = 0;
+         int left = 0, right = height.length - 1,leftmax = 0 , rightmax = 0;
+         while (left <= right){
+            if (height[left] <= height[right]){
+                if (leftmax <= height[left])
+                   leftmax = height[left];
+                else ans += leftmax - height[left];
+                left += 1;
             }
             else {
-                if (height[r] > rhb)
-                   rhb = height[r];
-                else
-                  res += (rhb - height[r]);
-                r --;
+                if (rightmax <= height[right])
+                   rightmax = height[right];
+                else ans += rightmax - height[right];
+                right -= 1;
             }
          }
-         return res;
+         return ans;
     }
 }
