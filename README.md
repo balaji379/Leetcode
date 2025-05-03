@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/balaji379/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/balaji379/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1294-range-frequency-queries](https://github.com/balaji379/Leetcode/tree/master/1294-range-frequency-queries) |
+| [1319-unique-number-of-occurrences](https://github.com/balaji379/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/balaji379/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/balaji379/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balaji379/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/balaji379/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1294-range-frequency-queries](https://github.com/balaji379/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1297-maximum-number-of-balloons](https://github.com/balaji379/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1319-unique-number-of-occurrences](https://github.com/balaji379/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/balaji379/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/balaji379/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
