@@ -3,8 +3,7 @@ class Solution {
          Map<String,Integer> map = new HashMap<>();
          for(int[] dominoe : dominoes){
             Arrays.sort(dominoe);
-            String s = String.valueOf(dominoe[0]);
-            s += String.valueOf(dominoe[1]);
+            String s = Arrays.toString(dominoe);
             map.put(s,map.getOrDefault(s,0) + 1);
          }
          int ans = 0;
