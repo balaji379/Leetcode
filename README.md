@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/balaji379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-longest-turbulent-subarray](https://github.com/balaji379/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/balaji379/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1034-subarrays-with-k-different-integers](https://github.com/balaji379/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/balaji379/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/balaji379/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/balaji379/Leetcode/tree/master/0952-word-subsets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/balaji379/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/balaji379/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/balaji379/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/balaji379/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/balaji379/Leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/balaji379/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/balaji379/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/balaji379/Leetcode/tree/master/0837-most-common-word) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/balaji379/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1034-subarrays-with-k-different-integers](https://github.com/balaji379/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/balaji379/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/balaji379/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/balaji379/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/balaji379/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/balaji379/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/balaji379/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1034-subarrays-with-k-different-integers](https://github.com/balaji379/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/balaji379/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/balaji379/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/balaji379/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
