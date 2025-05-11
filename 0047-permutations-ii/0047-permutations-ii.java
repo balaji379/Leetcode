@@ -1,26 +1,32 @@
+
 class Solution {
+    List<List<Integer>> list = new ArrayList<>();
+    ArrayList<Integer> temp = new ArrayList<>();
+    Map<Integer,Integer> map = new HashMap<>();
+    int size = 0;
     public List<List<Integer>> permuteUnique(int[] nums) {
-        List<Integer> temp = new ArrayList<>();
-        List<List<Integer>> answer = new ArrayList<>();
-        Set<String> set = new HashSet<>();
-        Permutation(temp,answer,0,set,nums);
-        return answer;
-    }
-    public static void Permutation(List<Integer> temp , List<List<Integer>> answer,int index,Set<String> set,int...nums){
-        if (nums.length - index == 0){
-            String str = temp.toString();
-            if (!set.contains(str)){
-                answer.add(temp);
-                set.add(str);
-            }
-            return ;
+         for (int val : nums)
+            map.put(val,map.getOrDefault(val,0) + 1);
+         this.size = nums.length;
+         solve();
+         return list;
+        
+    }  
+    public void solve(){
+        if (temp.size() == size){
+            list.add(new ArrayList<>(temp));
+            return;
         }
-        int len =  temp.size();
-        for (int i = 0; i <= len; i++){
-            List<Integer> nextReg = new LinkedList<>();
-            nextReg.addAll(temp);
-            nextReg.add(i,nums[index]);
-            Permutation(nextReg,answer,index + 1,set,nums);
+        for (Map.Entry<Integer,Integer> entry : map.entrySet()){
+            int key = entry.getKey();
+            int val = entry.getValue();
+            if (val == 0)
+               continue;
+            temp.add(key);
+            map.put(key,val - 1);
+            solve();
+            temp.removeLast();
+            map.put(key,val);
         }
     }
 }
