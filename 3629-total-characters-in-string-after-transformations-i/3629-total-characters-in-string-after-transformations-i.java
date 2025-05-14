@@ -25,7 +25,7 @@ class Solution {
        int val = 0;
        for (int c : count)
           val = modvalue(val,c);
-          System.out.println(val);
+        //   System.out.println(val);
        return val;
     }
 }
