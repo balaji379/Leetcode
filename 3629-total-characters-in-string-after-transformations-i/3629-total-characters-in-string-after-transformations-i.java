@@ -2,7 +2,7 @@ class Solution {
     static  final int mod = (int)(Math.pow(10,9) + 7);
     public int modvalue(int a,int b){
         a += b;
-        if (a >= mod)  return a %= mod;
+        if (a >= mod)  return a -= mod;
         else return a;
     }
     public int lengthAfterTransformations(String s, int t) {
