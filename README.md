@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/balaji379/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/balaji379/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/balaji379/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/balaji379/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1294-range-frequency-queries](https://github.com/balaji379/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1310-watering-plants](https://github.com/balaji379/Leetcode/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/balaji379/Leetcode/tree/master/1319-unique-number-of-occurrences) |
