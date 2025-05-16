@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/balaji379/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/balaji379/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/balaji379/Leetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/balaji379/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/balaji379/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/balaji379/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/balaji379/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/balaji379/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/balaji379/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/balaji379/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/balaji379/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/balaji379/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/balaji379/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/balaji379/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/balaji379/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/balaji379/Leetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/balaji379/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/balaji379/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/balaji379/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/balaji379/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/balaji379/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/balaji379/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
