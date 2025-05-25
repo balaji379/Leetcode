@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/balaji379/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/balaji379/Leetcode/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/balaji379/Leetcode/tree/master/0857-positions-of-large-groups) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/balaji379/Leetcode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0874-backspace-string-compare](https://github.com/balaji379/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/balaji379/Leetcode/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/balaji379/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/balaji379/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/balaji379/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/balaji379/Leetcode/tree/master/0800-letter-case-permutation) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/balaji379/Leetcode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1160-letter-tile-possibilities](https://github.com/balaji379/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1211-iterator-for-combination](https://github.com/balaji379/Leetcode/tree/master/1211-iterator-for-combination) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/balaji379/Leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
