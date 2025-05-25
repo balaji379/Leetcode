@@ -1,47 +1,35 @@
 class Solution {
-    public int longestPalindrome(String[] words) {
+ public  int longestPalindrome(String[] words) {
         Map<String, Integer> map = new HashMap<>();
-        for (String s : words) {
-            map.put(s, map.getOrDefault(s, 0) + 1);
-        }
-        Set<String> set = new HashSet<>();
-        Map<String, Integer> same = new HashMap<>();
-        int count = 0;
-        for (String s : words) {
-            if (s.charAt(0) == s.charAt(1)) {
-                same.put(s, same.getOrDefault(s, 0) + 1);
-                set.add(s);
-            } else {
-                StringBuilder sb = new StringBuilder(s);
-                sb.reverse();
-                String r = sb.toString();
-                if (!set.contains(r) && map.containsKey(r)) {
-                    int first = map.get(s);
-                    int second = map.get(r);
-                    if (first == second)
-                        count += (first + second);
-                    else {
-                        count += (Math.min(first, second) * 2);
+        for (String word : words)
+            map.put(word, map.getOrDefault(word, 0) + 1);
+        int oddcount = 0;
+        int len = 0;
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            String key = entry.getKey();
+            int val = entry.getValue();
+            if (val > 0) {
+                String rkey = key.substring(1) + key.substring(0, 1);
+                if (key.equals(rkey)) {
+                    int rval = map.get(rkey);
+                    if (rval % 2 != 0 && oddcount == 0){
+                        oddcount = 1;
+                        len += (val * 2);
+                    }else if (rval % 2 != 0){
+                        len += ((rval - 1) * 2);
                     }
-                    set.add(s);
-                    set.add(r);
+                    else if (rval % 2 == 0){
+                        len += (rval * 2);
+                    }
+                    map.put(key, 0);
+                }
+                else if (map.containsKey(rkey)) {
+                    len += (Math.min(val, map.get(rkey)) * 4);
+                    map.put(key, 0);
+                    map.put(rkey, 0);
                 }
             }
-
         }
-        int max = 0;
-        boolean flag = true;
-        for (int f : same.values()) {
-            if (f % 2 == 0)
-                max += f;
-            else if (f % 2 != 0) {
-                if (flag) {
-                    max += f;
-                    flag = false;
-                } else
-                    max += (f - 1);
-            }
-        }
-        return (count + max) * 2;
+        return len;
     }
 }
