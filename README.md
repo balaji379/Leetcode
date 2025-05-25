@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/balaji379/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/balaji379/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0986-largest-time-for-given-digits](https://github.com/balaji379/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/balaji379/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/balaji379/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/balaji379/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/balaji379/Leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/balaji379/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [0986-largest-time-for-given-digits](https://github.com/balaji379/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1044-find-common-characters](https://github.com/balaji379/Leetcode/tree/master/1044-find-common-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/balaji379/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/balaji379/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/balaji379/Leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/balaji379/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0986-largest-time-for-given-digits](https://github.com/balaji379/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1656-count-good-triplets](https://github.com/balaji379/Leetcode/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/balaji379/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/balaji379/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/balaji379/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/balaji379/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/balaji379/Leetcode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [0986-largest-time-for-given-digits](https://github.com/balaji379/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1160-letter-tile-possibilities](https://github.com/balaji379/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1211-iterator-for-combination](https://github.com/balaji379/Leetcode/tree/master/1211-iterator-for-combination) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/balaji379/Leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
