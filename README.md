@@ -1138,4 +1138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/balaji379/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/balaji379/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/balaji379/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
