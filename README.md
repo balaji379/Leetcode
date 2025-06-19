@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/balaji379/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/balaji379/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/balaji379/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/balaji379/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/balaji379/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/balaji379/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/balaji379/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2215-finding-3-digit-even-numbers](https://github.com/balaji379/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/balaji379/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/balaji379/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/balaji379/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
 |  |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/balaji379/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balaji379/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/balaji379/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/balaji379/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/balaji379/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/balaji379/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/balaji379/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
