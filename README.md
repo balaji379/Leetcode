@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/balaji379/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0436-find-right-interval](https://github.com/balaji379/Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/balaji379/Leetcode/tree/master/0456-132-pattern) |
+| [0486-predict-the-winner](https://github.com/balaji379/Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/balaji379/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/balaji379/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/balaji379/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/balaji379/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/balaji379/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/balaji379/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/balaji379/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/balaji379/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/balaji379/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/balaji379/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/balaji379/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/balaji379/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/balaji379/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/balaji379/Leetcode/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/balaji379/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/balaji379/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0400-nth-digit](https://github.com/balaji379/Leetcode/tree/master/0400-nth-digit) |
+| [0486-predict-the-winner](https://github.com/balaji379/Leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/balaji379/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/balaji379/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -1169,4 +1173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/balaji379/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/balaji379/Leetcode/tree/master/0184-department-highest-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/balaji379/Leetcode/tree/master/1135-customers-who-bought-all-products) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/balaji379/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
