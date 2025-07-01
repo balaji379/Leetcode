@@ -1174,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/balaji379/Leetcode/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/balaji379/Leetcode/tree/master/0607-sales-person) |
 | [1135-customers-who-bought-all-products](https://github.com/balaji379/Leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1179-game-play-analysis-i](https://github.com/balaji379/Leetcode/tree/master/1179-game-play-analysis-i) |
 ## Game Theory
 |  |
 | ------- |
