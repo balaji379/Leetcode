@@ -1,4 +1,3 @@
-select a.player_id,a.event_date first_login from activity a
-where a.event_date = ALL (select min(event_date)
-from activity s 
-where a.player_id = s.player_id);
+SELECT player_id, MIN(event_date) AS first_login
+FROM Activity
+GROUP BY player_id;
