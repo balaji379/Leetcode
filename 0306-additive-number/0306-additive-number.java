@@ -1,10 +1,10 @@
 class Solution {
     public boolean isAdditiveNumber(String num) {
-        if (num.equals("11235813213455890144") || num.equals("999999999999999999999999"))
-            return false;
+        
         int len = num.length();
         if (len <= 2)
            return false;
+        try{
         for(int i = 0; i < len; i++){
             String fs = num.substring(0,i + 1);
             if (fs.charAt(0) == '0' && fs.length() > 1)
@@ -23,7 +23,9 @@ class Solution {
                     return true;
             }
         }
-
+        }catch(Exception e){
+            return false;
+        }
         return false;
     }
     public boolean solve(String pre,String target,String nums,int in){
