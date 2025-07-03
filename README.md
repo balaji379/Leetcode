@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/balaji379/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/balaji379/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/balaji379/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/balaji379/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/balaji379/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/balaji379/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/balaji379/Leetcode/tree/master/0486-predict-the-winner) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/balaji379/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/balaji379/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/balaji379/Leetcode/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/balaji379/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/balaji379/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/balaji379/Leetcode/tree/master/3651-transformed-array) |
 ## Prefix Sum
 |  |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/balaji379/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/balaji379/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/balaji379/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/balaji379/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/balaji379/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
 |  |
