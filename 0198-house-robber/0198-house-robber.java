@@ -1,16 +1,19 @@
 class Solution {
     public int rob(int[] nums) {
-        if(nums.length<2)
-           return nums[0];
-        int[] totalloot = new int[nums.length];
-        totalloot[0] = nums[0];
-        for(int i =1 ;i<nums.length;i++){
-            if(i>=2){
-                totalloot[i] = Math.max(totalloot[i-2]+nums[i],totalloot[i-1]);
-            }
-            else
-               totalloot[i] = Math.max(totalloot[0],nums[i]);
-        }
-        return totalloot[nums.length-1];
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp,Integer.MIN_VALUE);
+        return solve(nums,dp,dp.length - 1);
+    }
+     public  int solve(int[] money, int[] dp, int index) {
+        if (index == 0)
+            return money[0];
+        else if (index < 0)
+            return 0;
+        if (dp[index] != Integer.MIN_VALUE)
+            return dp[index];
+        int pick = money[index] + solve(money, dp, index - 2);
+        int unpick = solve(money, dp, index - 1);
+        dp[index] = Math.max(pick, unpick);
+        return dp[index];
     }
 }
