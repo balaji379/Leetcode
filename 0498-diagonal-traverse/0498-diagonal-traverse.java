@@ -1,21 +1,21 @@
 class Solution {
     int row = 0, col = 0;
     Set<String> set = new HashSet<>();
-
+    int[] ans;
     public int[] findDiagonalOrder(int[][] mat) {
-        return dt(mat).stream()
-                .mapToInt(Integer::intValue)
-                .toArray();
+        ans = new int[mat[0].length * mat.length];
+        dt(mat);
+        return ans;
     }
 
-    public List<Integer> dt(int[][] mat) {
+    public void dt(int[][] mat) {
         int visited_cells = 0, total_cell = mat.length * mat[0].length;
 
         List<Integer> list = new ArrayList<>();
         while (visited_cells < total_cell) {
             while (row >= 0 && col < mat[0].length) {
                 set.add(String.valueOf(row) + String.valueOf((col)));
-                list.add(mat[row][col]);
+                ans[visited_cells] = mat[row][col];
                 visited_cells += 1;
                 row -= 1;
                 col += 1;
@@ -26,14 +26,13 @@ class Solution {
 
             while (row < mat.length && col >= 0) {
                 set.add(String.valueOf(row) + String.valueOf((col)));
-                list.add(mat[row][col]);
+                ans[visited_cells] = mat[row][col];
                 visited_cells += 1;
                 row += 1;
                 col -= 1;
             }
             fixRowAndCol(mat[0].length, mat.length);
         }
-        return list;
     }
 
     private void fixRowAndCol(int clen, int rlen) {
