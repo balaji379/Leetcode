@@ -1192,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/balaji379/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/balaji379/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/balaji379/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
+| [2024-calculate-special-bonus](https://github.com/balaji379/Leetcode/tree/master/2024-calculate-special-bonus) |
 ## Game Theory
 |  |
 | ------- |
