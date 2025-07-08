@@ -1200,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-calculate-special-bonus](https://github.com/balaji379/Leetcode/tree/master/2024-calculate-special-bonus) |
 | [2110-employees-with-missing-information](https://github.com/balaji379/Leetcode/tree/master/2110-employees-with-missing-information) |
 | [3865-find-product-recommendation-pairs](https://github.com/balaji379/Leetcode/tree/master/3865-find-product-recommendation-pairs) |
+| [3898-seasonal-sales-analysis](https://github.com/balaji379/Leetcode/tree/master/3898-seasonal-sales-analysis) |
 ## Game Theory
 |  |
 | ------- |
