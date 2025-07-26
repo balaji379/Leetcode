@@ -1141,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/balaji379/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/balaji379/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/balaji379/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
