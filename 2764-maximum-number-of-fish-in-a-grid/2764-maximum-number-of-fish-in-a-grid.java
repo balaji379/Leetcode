@@ -1,38 +1,31 @@
 class Solution {
+    int ans = 0;
     public int findMaxFish(int[][] grid) {
-        
- int max = 0;
- boolean[][] path = new boolean[grid.length][grid[0].length];
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[i].length; j++) {
-                if (grid[i][j] > 0)
-                    max = Math.max(catchMaxFish(grid, 0, i, j, path), max);
+        int m = grid.length, n = grid[0].length;
+        int[][] vis = new int[m][n];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (vis[i][j] == 0 && grid[i][j] > 0) {
+                    int count = dfs(i, j, vis, grid, m, n);
+                    ans = Math.max(ans,count);
+                }
             }
         }
-        return max;
+        return ans;
     }
 
-    public static int catchMaxFish(int[][] grid, int sum, int r, int c, boolean[][] path) {
-        if (r >= grid.length || c >= grid[0].length || c < 0 || r < 0) {
-            return sum;
+    public int dfs(int ro,int co,int[][] vis,int[][] grid,int m, int n){
+        if(ro < 0 || co < 0 || ro >= m || co >= n) return 0;
+
+        if(vis[ro][co] == 0 && grid[ro][co] > 0){
+            vis[ro][co] = 1;
+            int count = grid[ro][co];
+            count += dfs(ro,co+1,vis,grid,m,n);
+            count += dfs(ro,co-1,vis,grid,m,n);
+            count += dfs(ro+1,co,vis,grid,m,n);
+            count += dfs(ro-1,co,vis,grid,m,n);
+            return count;
         }
-        if (grid[r][c] == 0)
-             return sum;
-
-        if (path[r][c])
-            return sum;
-        sum += grid[r][c];
-        path[r][c] = true;
-//        down
-        sum = catchMaxFish(grid, sum, r + 1, c, path);
-//       right
-        sum = catchMaxFish(grid, sum, r, c + 1, path);
-//       up
-        sum = catchMaxFish(grid, sum, r - 1, c, path);
-//       left
-        sum = catchMaxFish(grid, sum, r, c - 1, path);
-
-        // path[r][c] = false;
-        return sum;
+        return 0;
     }
 }
