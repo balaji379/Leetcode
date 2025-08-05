@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/balaji379/Leetcode/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/balaji379/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/balaji379/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1342-queens-that-can-attack-the-king](https://github.com/balaji379/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1370-count-number-of-nice-subarrays](https://github.com/balaji379/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/balaji379/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balaji379/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/balaji379/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/balaji379/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1342-queens-that-can-attack-the-king](https://github.com/balaji379/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1572-subrectangle-queries](https://github.com/balaji379/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/balaji379/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/balaji379/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/balaji379/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1310-watering-plants](https://github.com/balaji379/Leetcode/tree/master/1310-watering-plants) |
+| [1342-queens-that-can-attack-the-king](https://github.com/balaji379/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/balaji379/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/balaji379/Leetcode/tree/master/2048-build-array-from-permutation) |
