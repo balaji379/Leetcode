@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/balaji379/Leetcode/tree/master/1839-decode-xored-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/balaji379/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/balaji379/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/balaji379/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1944-truncate-sentence](https://github.com/balaji379/Leetcode/tree/master/1944-truncate-sentence) |
 | [1983-maximum-population-year](https://github.com/balaji379/Leetcode/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/balaji379/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/balaji379/Leetcode/tree/master/1310-watering-plants) |
 | [1342-queens-that-can-attack-the-king](https://github.com/balaji379/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/balaji379/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/balaji379/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/balaji379/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/balaji379/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/balaji379/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/balaji379/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/balaji379/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/balaji379/Leetcode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/balaji379/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/balaji379/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/balaji379/Leetcode/tree/master/2383-add-two-integers) |
