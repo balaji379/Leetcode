@@ -1,45 +1,31 @@
-import java.util.*;
-
 class Solution {
     public int removeStones(int[][] stones) {
-        int n = stones.length;
-        List<List<Integer>> graph = new ArrayList<>();
+        Map<Integer, Integer> parent = new HashMap<>();
 
-        // Build adjacency list
-        for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
+        // Union the row and column, offset y to avoid overlap
+        for (int[] stone : stones) {
+            int x = stone[0];
+            int y = ~stone[1]; // Use ~y to differentiate row and column
+            union(x, y, parent);
         }
 
-        // Connect stones sharing row or column
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]) {
-                    graph.get(i).add(j);
-                    graph.get(j).add(i);
-                }
-            }
+        Set<Integer> uniqueRoots = new HashSet<>();
+        for (int[] stone : stones) {
+            uniqueRoots.add(find(stone[0], parent));
         }
 
-        boolean[] visited = new boolean[n];
-        int components = 0;
-
-        // Count connected components using DFS
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                dfs(i, graph, visited);
-                components++;
-            }
-        }
-
-        return n - components; // Remove all but one stone from each component
+        return stones.length - uniqueRoots.size();
     }
 
-    private void dfs(int node, List<List<Integer>> graph, boolean[] visited) {
-        visited[node] = true;
-        for (int neighbor : graph.get(node)) {
-            if (!visited[neighbor]) {
-                dfs(neighbor, graph, visited);
-            }
-        }
+    private int find(int x, Map<Integer, Integer> parent) {
+        if (!parent.containsKey(x)) parent.put(x, x);
+        if (x != parent.get(x)) parent.put(x, find(parent.get(x), parent));
+        return parent.get(x);
+    }
+
+    private void union(int x, int y, Map<Integer, Integer> parent) {
+        parent.putIfAbsent(x, x);
+        parent.putIfAbsent(y, y);
+        parent.put(find(x, parent), find(y, parent));
     }
 }
