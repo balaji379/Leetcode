@@ -1,30 +1,23 @@
 class Solution {
-    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        int m = obstacleGrid.length;
-        int n = obstacleGrid[0].length;
-        if (obstacleGrid[m - 1][n - 1] == 1 || obstacleGrid[0][0] == 1)
-             return 0;
-        int[][] dp = new int[m][n];
-         for (int i = 0; i < dp.length; i++) {
-            for (int j = 0; j < dp[i].length; j++) {
-                dp[i][j] = -1;
+    public int uniquePathsWithObstacles(int[][] grid) {
+        if(grid[0][0] == 1) return 0;
+        int[][] dp = new int[grid.length][grid[0].length];
+        dp[0][0] = 1;
+
+        for(int i = 1; i < grid[0].length; i++){
+            if(grid[0][i] == 0) dp[0][i] = dp[0][i-1];
+        }
+
+        for(int i = 1; i < grid.length; i++){
+            if(grid[i][0] == 0) dp[i][0] =  dp[i-1][0];
+        }
+
+        for(int i = 1;i < grid.length; i++){
+            for(int j = 1;j < grid[i].length; j++){
+                if(grid[i][j] == 0) dp[i][j] = dp[i][j-1] + dp[i-1][j];
             }
         }
-        return findUniquePath(m - 1,n - 1, dp, obstacleGrid);
-    }
-     public  int findUniquePath(int r, int c, int[][] dp, int[][] mat) {
-        if (r < 0 || c < 0)
-            return 0;
-        if (r == 0 && c == 0)
-            return 1;
-        if (mat[r][c] == 1)
-            return 0;
-        if (dp[r][c] != -1)
-            return dp[r][c];
-
-        int up = findUniquePath(r - 1, c, dp, mat);
-        int left = findUniquePath(r, c - 1, dp, mat);
-        dp[r][c] = up + left;
-        return up + left;
+        
+        return dp[grid.length - 1][grid[0].length - 1];
     }
 }
