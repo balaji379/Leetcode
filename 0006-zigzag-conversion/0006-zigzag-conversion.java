@@ -1,37 +1,31 @@
 class Solution {
-    public static int row(char[][] mat, String str, int j, int[] arrinfo) {
-        int len = mat.length;
-        int strlen = str.length();
-        for (int i = 0; i < len && arrinfo[1] < strlen; i++, arrinfo[1]++) {
-            mat[i][j] = str.charAt(arrinfo[1]);
-        }
-        return j;
-    }
-    public  String convert(String str, int row) {
-        int j = 0;
-        char[][] mat = new char[row][str.length()*2];
-        int[] arrinfo = new int[] { 0, 0 };
-        for (int i = 0; i < str.length(); i++) {
-            Solution.row(mat, str, j, arrinfo);
-            j = Solution.rowandcol(mat, str, row - 2, j + 1, arrinfo);
-        }
-        String output = "";
-        for (char[] m : mat) {
-            for (int i = 0; i < j; i++) {
-                if (Character.isAlphabetic(m[i]) || m[i]==',' ||m[i]=='.'){
-                    output += String.valueOf(m[i]);
+    public String convert(String s, int rows) {
+        StringBuilder ans = new StringBuilder();
+        List<List<Character>> list = new ArrayList<>();
+        for(int i = 0; i < rows; i++) list.add(new ArrayList<>());
+        int idx = 0;
+        while(idx < s.length()){
+            boolean flag = false;
+            for(int i = 0; i < rows; i++){
+                if(idx >= s.length()){
+                    flag = true;
+                    break;
                 }
+                list.get(i).add(s.charAt(idx++));
             }
+            if(flag) break;
+            for(int i = rows - 2; i > 0; i--){
+                if(idx >= s.length()){
+                    flag = true;
+                    break;
+                }
+                list.get(i).add(s.charAt(idx++));
+            }
+            if(flag) break;
         }
-        return output;
-    }
-    public static int rowandcol(char[][] mat, String str, int i, int j, int[] arrinfo) {
-        int strlen = str.length();
-        for (i = i; i >= 1 && arrinfo[1] < strlen; i--, arrinfo[1]++, j++) {
-            mat[i][j] = str.charAt(arrinfo[1]);
+        for(List<Character> i: list){
+            for(char c: i) ans.append(c);
         }
-
-        return j;
+        return ans.toString();
     }
-    
 }
