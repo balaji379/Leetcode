@@ -786,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/balaji379/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/balaji379/Leetcode/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/balaji379/Leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/balaji379/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1211-iterator-for-combination](https://github.com/balaji379/Leetcode/tree/master/1211-iterator-for-combination) |
 | [1294-range-frequency-queries](https://github.com/balaji379/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/balaji379/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1231,11 +1232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/balaji379/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/balaji379/Leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/balaji379/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/balaji379/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/balaji379/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/balaji379/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1767-design-front-middle-back-queue](https://github.com/balaji379/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/balaji379/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry
