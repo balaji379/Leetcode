@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/balaji379/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/balaji379/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balaji379/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/balaji379/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/balaji379/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balaji379/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/balaji379/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/balaji379/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/balaji379/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/balaji379/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/balaji379/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/balaji379/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
