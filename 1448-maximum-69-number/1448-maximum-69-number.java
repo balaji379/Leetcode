@@ -1,22 +1,23 @@
 class Solution {
     public int maximum69Number (int num) {
-         List<Integer> list = new ArrayList<>();
-         while (num != 0) {
-            list.add(0,num % 10);
+        int ans = num;
+        ArrayList<Integer> list = new ArrayList<>();
+        while(num > 0){
+            list.add(num%10);
             num /= 10;
-         }
-         int pow = list.size() - 1;
-         num = 0;
-         boolean flag = true;
-        for (int val : list){
-            if (val == 6 && flag){
-                num += 9 * Math.pow(10,pow);
-                flag = false;
-            }
-            else 
-                num += val * Math.pow(10,pow);
-            pow -= 1;
         }
-        return num;
+        Collections.reverse(list);
+        for(int i = 0; i < list.size(); i++){
+            boolean f = false;
+            if(list.get(i) == 6){
+                list.set(i,9);
+                f = true;
+            }
+            int nums = 0;
+            for(int j: list) nums = (nums*10) + j;
+            ans = Math.max(ans,nums);
+            if(f) list.set(i,6);
+        }
+        return ans;
     }
 }
