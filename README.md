@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-queens-that-can-attack-the-king](https://github.com/balaji379/Leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1370-count-number-of-nice-subarrays](https://github.com/balaji379/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/balaji379/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/balaji379/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balaji379/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/balaji379/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/balaji379/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/balaji379/Leetcode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1297-maximum-number-of-balloons](https://github.com/balaji379/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/balaji379/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/balaji379/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/balaji379/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1454-remove-palindromic-subsequences](https://github.com/balaji379/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/balaji379/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/balaji379/Leetcode/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/balaji379/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/balaji379/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/balaji379/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1488-sort-integers-by-the-power-value](https://github.com/balaji379/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/balaji379/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/balaji379/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/balaji379/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/balaji379/Leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/balaji379/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/balaji379/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/balaji379/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/balaji379/Leetcode/tree/master/1839-decode-xored-array) |
@@ -1180,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-iterator-for-combination](https://github.com/balaji379/Leetcode/tree/master/1211-iterator-for-combination) |
 | [1331-path-with-maximum-gold](https://github.com/balaji379/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/balaji379/Leetcode/tree/master/1359-circular-permutation-in-binary-representation) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/balaji379/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/balaji379/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/balaji379/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/balaji379/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1268,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/balaji379/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/balaji379/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/balaji379/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Database
 |  |
 | ------- |
