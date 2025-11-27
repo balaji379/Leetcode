@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/balaji379/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/balaji379/Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/balaji379/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/balaji379/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0816-design-hashset](https://github.com/balaji379/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/balaji379/Leetcode/tree/master/0817-design-hashmap) |
 | [0824-number-of-lines-to-write-string](https://github.com/balaji379/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/balaji379/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/balaji379/Leetcode/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/balaji379/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/balaji379/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/balaji379/Leetcode/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/balaji379/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1331-path-with-maximum-gold](https://github.com/balaji379/Leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/balaji379/Leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/balaji379/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/balaji379/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/balaji379/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/balaji379/Leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/balaji379/Leetcode/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/balaji379/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
